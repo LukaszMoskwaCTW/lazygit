@@ -1,0 +1,34 @@
+lastupdatecheck: 0
+recentrepos:
+- /Users/ctw/.config/lazygit
+- /Users/ctw/.config/tmux
+- /Users/ctw/.config/alacritty
+- /Users/ctw/git/g123-ma-auxin
+- /Users/ctw/.config/nvim
+- /Users/ctw/git/supervision
+- /Users/ctw/git/g123-gift
+- /Users/ctw/git/ninja-strike
+- /Users/ctw/git/ctw-box
+- /Users/ctw/git/plasmo/box-clickup
+- /Users/ctw/git/g123-auxin-admin
+- /Users/ctw/git/samurai-strike
+- /Users/ctw/git/ctw-sso-sidecar
+- /Users/ctw/hugo/personal-docs
+- /Users/ctw/Documents/XCodeProjects/Pitchi
+- /Users/ctw/git/pitchi/server
+- /Users/ctw/git/g123-cs-ui
+- /Users/ctw/git/pitchi/frontend
+- /Users/ctw/git/lesson-editor
+- /Users/ctw/Documents/XCodeProjects/LanguageLearning
+- /Users/ctw/git/expotest
+- /Users/ctw/git/library-server
+- /Users/ctw/git/docuhub
+- /Users/ctw/git/g123-creative-lab
+- /Users/ctw/git/g123-auxin
+- /Users/ctw/git/api
+- /Users/ctw/git/microservices-manifests
+startuppopupversion: 5
+customcommandshistory:
+- q
+hidecommandlog: true
+ignorewhitespaceindiffview: false
